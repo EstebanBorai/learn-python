@@ -1,3 +1,2 @@
 # learn-python
-> 🐍 Learning Python snippets
-
+> 🐍 Learning Python
