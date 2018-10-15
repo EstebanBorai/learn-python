@@ -1,8 +1,11 @@
 {
 	"folders": [
 		{
-			"path": "."
-		}
+			"name": "hfpython",
+			"path": "./hfpython"
+		},
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "/usr/local/bin/python3"
+	}
 }
