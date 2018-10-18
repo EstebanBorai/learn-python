@@ -4,6 +4,10 @@
 			"name": "hfpython",
 			"path": "./hfpython"
 		},
+		{
+			"name": "django_tutorial",
+			"path": "./django_tutorial"
+		}
 	],
 	"settings": {
 		"python.pythonPath": "/usr/local/bin/python3"
