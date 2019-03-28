@@ -9,6 +9,6 @@ setup(
 	py_modules = ['nester'],
 	author = 'Esteban Borai',
 	author_email = 'estebanborai@outlook.com',
-	url = 'https://github.com/estebanborai/learn-python',
+	url = 'https://github.com/gitpullsh/learn-python',
 	description = 'A simple function that takes a list and print items inside the list recursively'
 )
